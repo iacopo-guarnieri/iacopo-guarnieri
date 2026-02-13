@@ -55,7 +55,7 @@ I'm a software engineer with **5+ years of professional experience** building sc
 
 ✨ Open to **remote opportunities** as a **Software Engineer** or **Backend Developer** across Europe  
 📚 Pursuing Computer Engineering at University of Pisa  
-🚀 Building scalable solutions at DeltaIac and Navcove
+🚀 Building scalable solutions
 
 ---
 
