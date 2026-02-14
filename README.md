@@ -1,10 +1,11 @@
 <div align="center">
-  <p align="center" style="
-    background-color: white;
-    border-radius: 10px;
-    border: 1px solid white;
-    padding:20px;">
-    <img src="https://www.deltaiac.com/logo.svg" width="120"/>
+  <p align="center" style="padding:20px;">
+    <img src="https://www.deltaiac.com/logo.svg"
+      style="
+        background-color: white;
+        border-radius: 10px;
+        border: 1px solid white;"
+      width="120"/>
   </p>
 
   # Hi there, I'm Iacopo 👋
