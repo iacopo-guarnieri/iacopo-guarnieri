@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hhttps://www.deltaiac.com/logo.svg" alt="DeltaIac Logo" width="120" />
+  <img src="https://www.deltaiac.com/logo.svg" alt="DeltaIac Logo" width="120" />
   
   # Hi there, I'm Iacopo 👋
   
